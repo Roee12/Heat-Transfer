@@ -1,0 +1,72 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[panelFunc]
+Class="Function"
+Prototype="int panelFunc(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[controlFunc]
+Class="Function"
+Prototype="int controlFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[timerFunc]
+Class="Function"
+Prototype="int timerFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[changeBody1]
+Class="Function"
+Prototype="int changeBody1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[changeBody2]
+Class="Function"
+Prototype="int changeBody2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[addEnergyFunc]
+Class="Function"
+Prototype="int addEnergyFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[resetFunc]
+Class="Function"
+Prototype="int resetFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[panelFunc2]
+Class="Function"
+Prototype="int panelFunc2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[showSecondPanel]
+Class="Function"
+Prototype="int showSecondPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[clearFunc]
+Class="Function"
+Prototype="int clearFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[plotGraphsFunc]
+Class="Function"
+Prototype="int plotGraphsFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[graphFunc]
+Class="Function"
+Prototype="int graphFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[fitLineFunc]
+Class="Function"
+Prototype="int fitLineFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[showInfoFunc]
+Class="Function"
+Prototype="int showInfoFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[changeData1]
+Class="Function"
+Prototype="int changeData1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[changeData2]
+Class="Function"
+Prototype="int changeData2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[linkFunc]
+Class="Function"
+Prototype="int linkFunc(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
